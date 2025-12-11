@@ -2,7 +2,7 @@ class Cred < Formula
     desc "Local-first credential manager"
     homepage "https://github.com/edneedham/cred"
     url "https://github.com/edneedham/cred/archive/refs/tags/v0.2.0.tar.gz"
-    sha256 "980fea88cc91824132acf68b522f71f8dcaa6a7c750238d56b8c3c282b18644e"
+    sha256 "bef140a1a96994029153dca8c00b1750b9a5a764fb9db2dc68d7bb40e8a29e8a"
     license "MIT OR Apache-2.0"
   
     depends_on "rust" => :build
