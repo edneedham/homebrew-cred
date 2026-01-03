@@ -1,8 +1,8 @@
 class Cred < Formula
     desc "Local-first credential manager"
     homepage "https://github.com/edneedham/cred"
-    url "https://github.com/edneedham/cred/archive/refs/tags/v0.5.0.tar.gz"
-    sha256 "56f40fef97ab9243b0657bd2a5989c579ab06d1abe3342d85c2800e6268b2b88"
+    url "https://github.com/edneedham/cred/archive/refs/tags/v0.7.0.tar.gz"
+    sha256 "1e9726530d98ec894e03b7d825c7088516a0b3ed12eb9c8fdbd98a475b748367"
 
     license "MIT OR Apache-2.0"
   
