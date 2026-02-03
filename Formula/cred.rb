@@ -1,14 +1,9 @@
 class Cred < Formula
     desc "Local-first credential manager"
     homepage "https://github.com/edneedham/cred"
-    url "https://github.com/edneedham/cred/archive/refs/tags/v0.15.1.tar.gz"
-    sha256 "88b26cd4545185dedc0ee2c7f9f6994be0e8d8434af6f1319eaf6ddba329ac7d"
+    url "https://github.com/edneedham/cred/archive/refs/tags/v0.15.3.tar.gz"
+    sha256 "75a44a6dd4faa9625416c07c2215773fe232012f94fedbeff1d0c07efbd8e54a"
 
-  bottle do
-    root_url "https://github.com/edneedham/homebrew-cred/releases/download/v0.15.1"
-    sha256 cellar: :any_skip_relocation, arm64_sequoia: "1392089215ff7b88d550e48fe9955dd03e0907b1e74ac5be0d0f121ef7aba906"
-    sha256 cellar: :any_skip_relocation, arm64_sonoma: "892ffb9e01b1ebd0c8923e988dbbbe465a4cf0a4c3f3ec7052951c3dee6f0915"
-  end
 
 
 
